@@ -5,7 +5,7 @@ AWS documentation [is available here](https://boto3.amazonaws.com/v1/documentati
 
 Langchain agent documentation [can be found here](https://python.langchain.com/docs/modules/agents/tools.html).
 
-Create your OpenAI key [here](https://openai.com/) by using the *Getting Started* button.
+Create your OpenAI key [here](https://openai.com/) by using the **Getting Started** button.
 
 YouTube inspiration:
 [Create Custom Tools for Chatbots in LangChain — LangChain #8](https://www.youtube.com/watch?v=q-HNphrWsDE&list=PLRmfjgxkmfP0q6vBXZUFTzMX7RbKjDzAg&index=2&t=975s&pp=gAQBiAQB)
